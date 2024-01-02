@@ -4964,11 +4964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Code\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\tmp\\.netProjects\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "F:\\Code\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\tmp\\.netProjects\\SportsSln\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\galki\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "C:\\tmp\\.netProjects\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galki\\AppData\\Roaming\\NuGet\\NuGet.Config",
