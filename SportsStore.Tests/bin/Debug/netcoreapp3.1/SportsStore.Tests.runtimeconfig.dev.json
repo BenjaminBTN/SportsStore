@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\galki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\galki\\.nuget\\packages"
+    ]
+  }
+}
