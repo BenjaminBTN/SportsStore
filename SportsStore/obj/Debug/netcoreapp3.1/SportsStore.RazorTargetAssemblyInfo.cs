@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportsStore")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b52ddd6bd7218a2fcff1666840f1cea2188df8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc823b8cb6d934784614d6e3cd6c78dd79887e3d")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportsStore.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
