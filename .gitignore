@@ -1,2 +1,5 @@
 \.vs
-\SportsStore/obj/Debug
+\SportsStore\obj
+\SportsStore\bin
+\SportsStore.Tests\obj
+\SportsStore.Tests\bin
