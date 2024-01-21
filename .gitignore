@@ -1,5 +1,3 @@
-\.vs
-\SportsStore\obj
-\SportsStore\bin
-\SportsStore.Tests\obj
-\SportsStore.Tests\bin
+.vs/
+obj/
+bin/
